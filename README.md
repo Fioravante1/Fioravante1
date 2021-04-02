@@ -7,7 +7,7 @@ Olá, me chamo Fioravante Chiozzi, sou de São Paulo, Brasil. Atualmente estudo 
 - 💬 Colaboração é um valor, me manda uma mensagem, adoraria ajudar!
 
 
-**Tecnologias e ferramentas**
+<h1 align=center>Tecnologias e ferramentas</h1>
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
 ![ReactJS Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
