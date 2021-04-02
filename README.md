@@ -22,6 +22,8 @@ Olá, me chamo Fioravante Chiozzi, sou de São Paulo, Brasil. Atualmente estudo 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gomesanac/)](https://www.linkedin.com/in/fioravantechiozzi/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fioravante1)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Fioravante1/Fioravante1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
