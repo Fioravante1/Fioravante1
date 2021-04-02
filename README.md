@@ -1,6 +1,6 @@
 ### Bem vindo a minha página! 👋
 
-Olá, me chamo Fioravante Chiozzi, sou de São Paulo, Brasil. Atualmente estudo na [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedor Full-Stack** e tambémm estudo Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul 🚀.
+Olá, me chamo Fioravante Chiozzi, sou de São Paulo, Brasil. Atualmente estudo na [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedor Full-Stack** e também estudo Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul 🚀.
 
 - 💻 Desenvolvedor full-stack
 - 📫 Para entrar em contato, envie um email para `f.ichiozzi@gmail.com`
