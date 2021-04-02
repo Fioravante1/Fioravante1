@@ -1,5 +1,7 @@
 ### Bem vindo a minha página! 👋
 
+<link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+
 Olá, me chamo Fioravante Chiozzi, sou de São Paulo, Brasil. Atualmente estudo na [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedor Full-Stack** e também estudo Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul 🚀.
 
 - 💻 Desenvolvedor full-stack
@@ -18,6 +20,7 @@ Olá, me chamo Fioravante Chiozzi, sou de São Paulo, Brasil. Atualmente estudo 
 ![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+<i class = "devicon-- colori"> </i>
 
 **Me encontre**
 
