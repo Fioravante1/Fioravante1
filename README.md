@@ -3,10 +3,17 @@
 
 Olá, me chamo Fioravante Chiozzi, sou de São Paulo, Brasil. Atualmente estudo na [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedor Full-Stack** e também estudo Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul 🚀.
 
-- 💻 Desenvolvedor full-stack
-- 📫 Para entrar em contato, envie um email para `f.ichiozzi@gmail.com`
-- 💬 Colaboração é um valor, me manda uma mensagem, adoraria ajudar!
-
+<ul>
+  <li>
+    <img src="https://img.icons8.com/color/16/000000/email.png"/> Para entrar em contato, envie um email para <strong>f.ichiozzi@gmail.com</strong>
+  </li>
+  <li>
+    <img src="https://img.icons8.com/office/16/000000/under-computer.png"/> Desenvolvedor Web
+  </li>
+  <li>
+    <img src="https://img.icons8.com/color/16/000000/collaboration.png"/> Colaboração é um valor, me manda uma mensagem, seria legal ajudar!
+  </li>
+</ul>
 
 <h1 align=center>Tecnologias e ferramentas</h1>
 
