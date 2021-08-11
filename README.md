@@ -28,6 +28,7 @@ Olá, me chamo Fioravante Chiozzi, sou de São Paulo, Brasil. Atualmente estudo 
 <img src="https://img.icons8.com/color/50/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/50/000000/linux--v1.png"/>
 <img src="https://img.icons8.com/color/50/000000/mysql.png"/>
+<img src="https://img.icons8.com/color/50/000000/mongodb.png"/>
 <img src="https://img.icons8.com/office/50/000000/figma.png"/>
 </span>
 
