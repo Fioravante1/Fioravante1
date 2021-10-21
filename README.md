@@ -36,7 +36,14 @@ Olá, me chamo Fioravante Chiozzi, sou de São Paulo, Brasil. Atualmente estudo 
 
 **Me encontre**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gomesanac/)](https://www.linkedin.com/in/fioravantechiozzi/)
+<a href="https://www.linkedin.com/in/fioravantechiozzi/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+
+<a href = "mailto:f.ichiozzi@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a> 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fioravante1&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fioravante1&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
