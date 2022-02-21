@@ -1,7 +1,7 @@
 ### Bem vindo a minha página! 👋
 
 
-Olá, me chamo Fioravante Chiozzi, sou de São Paulo, Brasil. Atualmente atuo como **Full-Stack Developer**. Formado em desenvolvimento Web na Trybe e estudando Análise e Desenvolvimento de Sistemas🚀. Estou sempre em busca de novos desafios e aprendizados!
+Olá, me chamo Fioravante Chiozzi, sou de São Paulo, Brasil. Atualmente atuo como **Full-Stack Developer**. Formado em desenvolvimento Web na Trybe e estudando Análise e Desenvolvimento de Sistemas🚀.
 
 <ul>
   <li>
