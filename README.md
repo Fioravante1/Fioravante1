@@ -47,7 +47,7 @@
   <a href="https://discord.com/channels/FioravanteChiozzi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="140" height="40" alt="discord logo"  />
   </a>
-  <a href="mailto:f.ichiozzi@gmail.com" target="_blank">
+  <a href="mailto:f.ichiozzi@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="140" height="40" alt="gmail logo"  />
   </a>
 </div>
