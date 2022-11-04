@@ -26,9 +26,7 @@
 </div>
 
 ###
-<div align="center">
-  <img height="400" src="https://ecoder.com.br/_nuxt/img/code.8968853.png"  />
-</div>
+
 
 ###
 <div align="center">
