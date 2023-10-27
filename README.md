@@ -1,7 +1,7 @@
 <h3 align="left">Bem vindo a minha página!</h3>
 
 ###
-<p align="left">Olá, me chamo Fioravante Chiozzi. Atualmente atuo como Full-Stack Developer. Formado em desenvolvimento Web na Trybe e estudando Análise e Desenvolvimento.</p>
+<p align="left">Desenvolvedor Front-End especializado em React, Next.js, TypeScript e SASS. Focado em entregar soluções que excedem expectativas com código de qualidade e teste robusto via Jest. Experiente em Git, CI/CD, e automação de testes. Adaptável, versátil em metodologias ágeis, e comprometido com excelência no atendimento ao cliente. Disposto a agregar valor técnico e colaborativo a projetos e equipes.</p>
 
 ###
 <p align="left">- Para entrar em contato, envie um email para f.ichiozzi@gmail.com<br> - Colaboração é um valor, me manda uma mensagem, seria legal ajudar!</p>
